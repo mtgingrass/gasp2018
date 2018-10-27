@@ -211,15 +211,7 @@ My opinion is that for new users to **R** or coding in general, Emacs should not
 
 ### VMWare Player
 
-I was surprised to hear that FDA employees can use **VMWare Player**. VMWare Player allows a user to run a second, isolated operating system on a single PC. This software will create a virtual environment within Windows that allows the user to install any software without restrictions.
-
- 
-
- 
-
-I asked the presenter how he can access data from his Virtual Machine and he said he connects the VM to a shared folder. I am concerned about information security using this method; however, it's something to work with IT professional if required.
-
- 
+VMWare Player allows a user to run a second, isolated operating system on a single PC. This software will create a virtual environment within Windows that allows the user to install any software without restrictions.
 
  
 
