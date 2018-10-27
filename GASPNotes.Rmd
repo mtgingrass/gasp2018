@@ -13,6 +13,10 @@ output:
 
 # GASP
 
+## Devgin
+<font size = 5>Check out [devgin.com](http://www.devgin.com) for more</font><BR><BR>
+
+## Event
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
  
@@ -27,7 +31,7 @@ output:
 
  
 
-Government Advances in Statistical Programming (GASP!) Workshop is a workshop focused on statistical programming for government applications held at the Bureau of Labor Statistics in Washington DC on October 24 to 25, 2018.
+Government Advances in Statistical Programming (GASP!) Workshop is a workshop focused on statistical programming for government applications held at the Bureau of Labor Statistics in Washington DC on October 24 to 25, 2018. This event was put on by W[ashington Statistical Society (WSS)](http://washstat.org/)
 
  
 
